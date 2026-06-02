@@ -4,6 +4,8 @@
 |   Detector for Philips Hue Entertainment Mode             |
 |                                                           |
 |   Adam Honse (calcprogrammer1@gmail.com)      06 Nov 2020 |
+|   Modified by                                             |
+|   Mike Hayward (mikeyskona@gmail.com)         02 Jun 2026 |
 |                                                           |
 |   This file is part of the OpenRGB project                |
 |   SPDX-License-Identifier: GPL-2.0-only                   |
